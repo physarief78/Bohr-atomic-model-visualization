@@ -1,0 +1,3 @@
+In this code i visualize the Pollonium atom based on Bohr atomic model.\\
+I visualize it with little bit animation.\\
+Enjoy...
