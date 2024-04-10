@@ -5,7 +5,7 @@ from matplotlib.animation import FuncAnimation
 # Function to calculate electron positions based on the electron configuration
 def calculate_electron_positions():
     electron_positions = []
-    # Add positions for each shell according to the electron configuration of xenon
+    # Add positions for each shell according to the electron configuration of Pollonium
     shell_electrons = [0, 2, 8, 18, 32, 18, 6]
     shell_radii = [0, 1, 2, 3, 4, 5, 6]
     for shell, num_electrons in zip(shell_radii, shell_electrons):
